@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-20T09:35:56 IST" name="Default suite" finished-at="2025-04-20T09:35:59 IST" duration-ms="2438">
+    <groups>
+    </groups>
+    <test started-at="2025-04-20T09:35:56 IST" name="Default test" finished-at="2025-04-20T09:35:59 IST" duration-ms="2438">
+      <class name="CodeStudio.PostRequest">
+        <test-method signature="createUserTest()[pri:0, instance:CodeStudio.PostRequest@3349e9bb]" started-at="2025-04-20T09:35:56 IST" name="createUserTest" finished-at="2025-04-20T09:35:58 IST" duration-ms="1372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest -->
+        <test-method signature="createUserTest1()[pri:0, instance:CodeStudio.PostRequest@3349e9bb]" started-at="2025-04-20T09:35:58 IST" name="createUserTest1" finished-at="2025-04-20T09:35:59 IST" duration-ms="1048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserTest1 -->
+      </class> <!-- CodeStudio.PostRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
