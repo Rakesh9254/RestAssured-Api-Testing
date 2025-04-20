@@ -1,1 +1,30 @@
-/target/
+`.gitignore` for Java/Maven Projects
+
+```bash
+# Java/Maven
+target/
+*.class
+*.log
+*.iml
+.idea/
+*.jar
+*.war
+
+# macOS
+.DS_Store
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+*.ipr
+*.iws
+*.idea/
+
+# VSCode
+.vscode/
+
+# TestNG Reports
+test-output/
